@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppNL</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="msg">Welcome !</string>
+    <string name="notif">Notification sent</string>
+    <string name="title_activity_seconde">ActivityTwo</string>
+    <string name="biers_update">Beers Updated</string>
+    <string name="pagesuivante">Next page</string>
+</resources>

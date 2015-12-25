@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppNL</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="msg">Bienvenue !</string>
+    <string name="notif">Notification envoyée</string>
+    <string name="title_activity_seconde">ActivityTwo</string>
+    <string name="biers_update">Bières Updated</string>
+    <string name="pagesuivante">Page suivante</string>
+</resources>
